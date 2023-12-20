@@ -51,11 +51,19 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Otherwise, specify the `filename` option to load an image from your `assets/media/` folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: 'Image credit: [**Unsplash**](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-35230-4/MediaObjects/41598_2023_35230_Fig3_HTML.png?as=webp)'
-  focal_point: ''
+  caption: 'Image credit: [**nature.com**](https://www.nature.com/articles/s41598-023-35230-4/figures/1)'
+  placement: 1
+  focal_point: 'Smart'
   preview_only: false
+  # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
+  #alt_text: An optional description of the image for screen readers.
+  
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
