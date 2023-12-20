@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: eyeseg
+summary: Dockerized CLI for OCT layer segmentation and drusen quantification
 tags:
   - Deep Learning
   - Docker
@@ -23,7 +23,7 @@ image:
   placement: 1
   focal_point: 'Smart'
   preview_only: false
-  filename: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-35230-4/MediaObjects/41598_2023_35230_Fig3_HTML.png  # Uncomment to load an image from `assets/media/` instead.
+  #filename: # Uncomment to load an image from `assets/media/` instead.
   #alt_text: An optional description of the image for screen readers.
 
 #links:

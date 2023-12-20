@@ -21,7 +21,7 @@ image:
   placement: 1
   focal_point: 'Smart'
   preview_only: false
-  filename: https://user-images.githubusercontent.com/5720058/228815448-4b561246-dac9-4f8f-abde-e0dd5457a72b.gif  # Uncomment to load an image from `assets/media/` instead.
+  #filename: # Uncomment to load an image from `assets/media/` instead.
   #alt_text: An optional description of the image for screen readers.
   
 ---
