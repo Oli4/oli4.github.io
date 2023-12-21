@@ -5,10 +5,10 @@ tags:
   - PythonPackage
   - OCT
   - Retina
-date: "2023-12-21"
+date: '2023-12-21'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/MedVisBonn/eyepy
+external_link: 'https://github.com/MedVisBonn/eyepy'
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -23,5 +23,4 @@ image:
   preview_only: false
   #filename: # Uncomment to load an image from `assets/media/` instead.
   #alt_text: An optional description of the image for screen readers.
-  
 ---
