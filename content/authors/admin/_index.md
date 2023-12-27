@@ -110,6 +110,9 @@ social:
   - icon : researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Olivier-Morelle
+  #- icon: semantic-scholar
+  #  icon_pack: ai
+  #  link: https://www.semanticscholar.org/author/Olivier-Morelle/2197382219
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
