@@ -11,14 +11,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+#  - block: skills
+#    content:
+#      title: Skills
+#      text: ''
+#      # Choose a user to display skills from (a folder name within `content/authors/`)
+#      username: admin
+#    design:
+#      columns: '1'
   #- block: experience
   #  content:
   #    title: Experience
@@ -158,20 +158,20 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       #text: |-
       #  {{% callout note %}}
       #  Quickly discover relevant content by [filtering publications](./publication/).
@@ -179,10 +179,11 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
-      columns: '2'
-      view: citation
+      columns: '1'
+      view: showcase
+      #citation
   #- block: collection
   #  id: talks
   #  content:

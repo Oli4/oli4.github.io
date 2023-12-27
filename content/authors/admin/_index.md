@@ -30,7 +30,7 @@ bio: My research interest is on the development and application of machine learn
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence, Ophthalmology
+  - Deep Learning - Computer Vision - Ophthalmology - Medical Imaging - Python - Docker - Git - Linux
 
 
 # Education to show in About widget
@@ -86,24 +86,30 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Oli4More
-    label: Follow me on Twitter
-    display:
-      header: true
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: '/#contact'
   - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=ok9fTacAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Oli4
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/o-morelle/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Oli4More
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-6404-2726
+  - icon : researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Olivier-Morelle
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -115,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Olivier Morelle is is a researcher and data scientist at the University of Bonn. His research interest is on the development and application of machine learning methods on ophthalmological data.
+Olivier Morelle is a researcher and data scientist at the University of Bonn. His research interest is on the development and application of machine learning methods on ophthalmological data.
 {style="text-align: justify;"}

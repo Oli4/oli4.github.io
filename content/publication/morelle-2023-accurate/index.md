@@ -58,8 +58,8 @@ url_video: ''
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   caption: 'Image credit: [**nature.com**](https://www.nature.com/articles/s41598-023-35230-4/figures/1)'
-  placement: 1
-  focal_point: 'Smart'
+  placement: 2
+  focal_point: 'Center'
   preview_only: false
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
   #alt_text: An optional description of the image for screen readers.
