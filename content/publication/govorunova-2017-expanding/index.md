@@ -39,7 +39,7 @@ summary: A notable variant, designated “ZipACR”, is particularly promising f
 tags: ['Membrane proteins','Neuroscience']
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

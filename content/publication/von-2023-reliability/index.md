@@ -40,7 +40,7 @@ tags: ['OCT','spectral-domain', 'age-related macular degeneration', 'axial resol
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

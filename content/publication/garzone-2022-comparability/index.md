@@ -44,7 +44,7 @@ summary: Automated drusen volume measures are not interchangeable between device
 tags: ['Biomarkers','Medical imaging','Risk factors']
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
