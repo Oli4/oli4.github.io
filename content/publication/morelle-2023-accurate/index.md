@@ -59,8 +59,8 @@ url_video: ''
 image:
   caption: 'Image credit: [**nature.com**](https://www.nature.com/articles/s41598-023-35230-4/figures/1)'
   placement: 2
-  focal_point: 'Center'
-  preview_only: false
+  focal_point: 'Top'
+  preview_only: true
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
   #alt_text: An optional description of the image for screen readers.
   
