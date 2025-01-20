@@ -40,7 +40,7 @@ summary: RapACR, nicknamed so for “rapid,” an ACR from Rhodomonas salina, is
 tags: ['channelrhodopsins', 'chloride ion channels', 'neuronal inhibition', 'optogenetics']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

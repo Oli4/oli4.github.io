@@ -28,7 +28,7 @@ summary: Multimodal imaging has revolutionized retina analysis with detailed ima
 tags: ['Ophthalmology','Machine learning','Retina','Automatic image processing','Automatic image analysis']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

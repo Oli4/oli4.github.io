@@ -1,6 +1,5 @@
 ---
-title: 'Comparability of automated drusen volume measurements in age-related macular
-  degeneration: a MACUSTAR study report'
+title: "Comparability of automated drusen volume measurements in age-related macular degeneration: a MACUSTAR study report"
 authors:
 - Davide Garzone
 - Jan Henrik Terheyden
@@ -12,7 +11,9 @@ authors:
 - Sarah Thiele
 - Stephen Poor
 - Sergio Leal
-- ' others'
+- Frank G. Holz
+- Robert P. Finger
+- MACUSTAR Consortium
 
 
 # Author notes (optional)
@@ -20,7 +21,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-12-19'
+date: "2022-12-19"
 doi: https://doi.org/10.1038/s41598-022-26223-w
 
 # Schedule page publish date (NOT publication's date).
@@ -44,7 +45,7 @@ summary: Automated drusen volume measures are not interchangeable between device
 tags: ['Biomarkers','Medical imaging','Risk factors']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -31,7 +31,7 @@ abstract: Drusen are an important biomarker for age-related macular degeneration
 summary: A novel deep learning based architecture that directly predicts the position of layers in OCT and guarantees their correct order is introduced, achieving state-of-the-art results for retinal layer segmentation.
 
 
-tags: ['Medicine', 'Engineering', 'Computer Science']
+tags: ['Computer Science', 'Medicine', 'Engineering']
 
 # Display this page in the Featured widget?
 featured: true
